@@ -48,10 +48,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 </p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turbo7slug&show_icons=true&locale=en&layout=compact" alt="turbo7slug" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turbo7slug&show_icons=true&locale=en" alt="turbo7slug" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turbo7slug&" alt="turbo7slug" /></p>
