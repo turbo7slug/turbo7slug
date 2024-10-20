@@ -1,4 +1,4 @@
-[![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://rishavchanda.io)
+[![MasterHead](https://imgs.search.brave.com/p9lJe1y8EdqJITPZEH76B2qNsQdi38h1fO9p6vIW1kE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hcmNo/aXZlLnNtYXNoaW5n/Lm1lZGlhL2Fzc2V0/cy8zNDRkYmY4OC1m/ZGY5LTQyYmItYWRi/NC00NmYwMWVlZGQ2/MjkvYzk3NGQ0ZGYt/NjUxNi00ZTVmLThi/NTgtMjY0YjRmNmNl/Zjk4L2RhcmtzaWRl/b2Z0aGVtb29uLmpw/Zw)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohd Yusuf Hesam</h1>
 <h3 align="center">A passionate Full Stack Developer and Student</h3>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: *mohdyusufhesam@gmail.com*
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Yv6oUIBERFGvL3XkOdh2XbqQd42lr_5a/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZuljrjIxGuNeCH_UIslrGTYetynnua5G/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
