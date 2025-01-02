@@ -7,7 +7,7 @@
 - 💬 Expertise: **MERN Stack, Flask, Python**
 - ⚡ Core Strengths: Building full-stack web applications, RESTful API development, scalable and efficient backend solutions, and user-centric responsive frontends.
 - 📫 How to reach me: *mohdyusufhesam@gmail.com*
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZuljrjIxGuNeCH_UIslrGTYetynnua5G/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1c7s6MWOW3OUYRaB16WwO6yIlNqY_DetH/view?usp=sharing)
 
 ---
 
